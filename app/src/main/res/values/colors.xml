@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="color_overdue" type="color">#7ED321</item>
+    <item name="color_closed" type="color">#E5615C</item>
+    <item name="color_open" type="color">#40AAB9</item>
+    <item name="color_future" type="color">#F5A623</item>
+</resources>
